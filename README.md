@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/andreaslarssamils/huddle-landing-page](https://github.com/andreaslarssamils/huddle-landing-page)
+- Live Site URL: [https://andreaslarssamils.github.io/huddle-landing-page/](https://andreaslarssamils.github.io/huddle-landing-page/)
 
 ## My process
 
